@@ -1,12 +1,15 @@
-
-
-0x01. AirBnB clone - Web static Description
-
-In this project, webpages were created with HTML code with CSS styling to understand the basics of HTML and CSS. Contents HTML files
-
-All the index.html files are in this folder. CSS files
-
-All the .css files are stored in the styles folder. Images
-
-All the images used for the webpages are stored in this folder
-
+# 0x01. AirBnB clone - Web static
+At the end of this project you are expected to be able to explain to anyone, without the help of Google:
+* What is HTML?
+* How do you create an HTML page?
+* What is a markup language?
+* What is the DOM?
+* What is an element / tag?
+* What is an attribute?
+* How does the browser load a webpage?
+* What is CSS?
+* How do you add style to an element?
+* What is a class?
+* What is a selector?
+* How do you compute CSS Specificity Value?
+* What are Box properties in CSS?
